@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="./github/project-image.jpg" alt="Imagem do projeto" width="100%"/>
+  <img src="./github/project-image.jpg" alt="Imagem do projeto" width="50%"/>
 </p>
 
 ## 🚀 Tecnologias
