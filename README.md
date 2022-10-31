@@ -30,3 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Card NLW Copa é um cartão que simula a famosa figurinha da Copa do Mundo, no estilo da NLW Copa. Clicando no cartão o tema muda de acordo com as trilhas de estudo do evento.
+
+## 🌐 Link 
+
+<a href="https://rfweb.com.br/app/nlw-copa/card/card.html" target="_blank">Clique aqui para acessar a versão atual do projeto.</a>
