@@ -33,4 +33,4 @@ O Card NLW Copa é um cartão que simula a famosa figurinha da Copa do Mundo, no
 
 ## 🌐 Link 
 
-<a href="https://rfweb.com.br/app/nlw-copa/card/card.html" target="_blank">Clique aqui para acessar a versão atual do projeto.</a>
+<a href="https://rodrigoaraujoferreira.github.io/Card-personalizado-NLW-Copa/card.html" target="_blank">Clique aqui para acessar a versão atual do projeto.</a>
